@@ -10,7 +10,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "App\\Models\\": "tests/"
+            "Iyzico\\EasyCheckoutFormTest\\": "tests/"
         }
     },
     "authors": [
