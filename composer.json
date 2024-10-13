@@ -3,7 +3,7 @@
     "description": "Iyzico ödeme işlemleri için CheckoutForm işlemlerini kolaylaştıran PHP kütüphanesi.",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
